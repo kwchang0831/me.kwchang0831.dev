@@ -1,0 +1,20 @@
+baseURL = 'https://kwchang0831.dev/'
+languageCode = 'en-us'
+title = '@kwchang0831'
+theme = 'hugo-theme-shell'
+enableGitInfo = true
+enableRobotsTXT = true
+canonifyURLs = true
+googleAnalytics = 'UA-205474482-2'
+
+disableKinds = ["taxonomy", "term"]
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+
+[params]
+  author = "kwchang0831"
+  github = "https://github.com/kwchang0831"
+  og_image = "/images/logo.png"
+  sitename = "kwchang0831.dev"
+  description = "My name is AH WEI. Love to try and learn new stuff. Master of none. YOLO! Having fun is all it matters, right?"
