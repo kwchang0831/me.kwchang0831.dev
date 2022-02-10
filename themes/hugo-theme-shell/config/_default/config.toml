@@ -17,7 +17,8 @@ ignoreErrors = ["error-remote-getjson"]
 # Additions stop here
     
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.
-  description = "My name is AH WEI. Love to try and learn new stuff. Master of none. YOLO! Having fun is all it matters, right?"
+  description = "My name is AH WEI. Love to learn new stuff. Master of none. Having fun is all it matters. YOLO!"
+
   [Params.Terminal]
   # Note: color scheme
   # Note: You can choose between
@@ -80,7 +81,6 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "links"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["Website", "https://kwchang0831.dev"],
     ["Blog", "https://blog.kwchang0831.dev"],
     ["Github", "https://github.com/kwchang0831"],
     ["Contact", "mailto:contact@kwchang0831.dev"]
