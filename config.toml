@@ -1,4 +1,4 @@
-baseURL = 'https://kwchang0831.dev/'
+baseURL = 'https://me.kwchang0831.dev/'
 languageCode = 'en-us'
 title = '@kwchang0831'
 theme = 'hugo-theme-shell'
@@ -16,5 +16,5 @@ disableKinds = ["taxonomy", "term"]
   author = "kwchang0831"
   github = "https://github.com/kwchang0831"
   og_image = "/images/logo.png"
-  sitename = "kwchang0831.dev"
+  sitename = "me.kwchang0831.dev"
   description = "My name is AH WEI. Love to try and learn new stuff. Master of none. YOLO! Having fun is all it matters, right?"
