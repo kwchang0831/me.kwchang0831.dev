@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.repository.intro.svg
           template: repository
-          repo: kwchang0831.dev
+          repo: me.kwchang0831.dev
           base: header
       - name: 🍕 PageSpeed Report
         if: ${{ success() || failure() }}
@@ -32,4 +32,4 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://www.kwchang0831.dev
+          plugin_pagespeed_url: https://me.kwchang0831.dev
