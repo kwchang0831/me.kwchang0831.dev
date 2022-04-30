@@ -1,4 +1,4 @@
-baseURL = "https://kwchang0831.dev/"
+baseURL = "https://me.kwchang0831.dev/"
 title = "@kwchang0831"
 author = "kwchang0831"
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
@@ -81,7 +81,7 @@ ignoreErrors = ["error-remote-getjson"]
   folderName = "links"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["Blog", "https://blog.kwchang0831.dev"],
+    ["Website", "https://kwchang0831.dev"],
     ["Github", "https://github.com/kwchang0831"],
     ["Contact", "mailto:contact@kwchang0831.dev"]
   ]

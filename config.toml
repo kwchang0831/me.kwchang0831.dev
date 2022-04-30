@@ -5,7 +5,7 @@ theme = 'hugo-theme-shell'
 enableGitInfo = true
 enableRobotsTXT = true
 canonifyURLs = true
-googleAnalytics = 'UA-205474482-2'
+googleAnalytics = 'G-H6FQSD3XNK'
 
 disableKinds = ["taxonomy", "term"]
 [taxonomies]
